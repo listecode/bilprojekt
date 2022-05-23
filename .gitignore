@@ -1,4 +1,5 @@
 video/
-*mp4
-*mov
-*MOV
+*.mp4
+*.mov
+*.MOV
+*.psd
